@@ -2,7 +2,7 @@
 
 [![](https://img.shields.io/badge/-gaokeyong%40outlook.com-blue?logo=microsoftoutlook&style=flat-square)](mailto:gaokeyong@outlook.com)
 [![](https://img.shields.io/badge/-Gao%20Keyong's%20Blog-orangered?logo=internetexplorer&style=flat-square)](https://blog.gaokeyong.top/)
-[![](https://img.shields.io/static/v1?label=PGP&message=69F0DEE1566B2DCC&color=blue&style=flat-square)](https://keys.openpgp.org/search?q=gaokeyong%40outlook.com)
+[![](https://img.shields.io/static/v1?label=PGP&message=4A3CF7B9039E6DF7&color=blue&style=flat-square)](https://keys.openpgp.org/search?q=gaokeyong%40outlook.com)
 
 <img align="left" height="165" src="https://github-readme-stats.vercel.app/api?username=gkkeys&show_icons=true&locale=en" alt="Gaokeyong's Github Stats" />
 
